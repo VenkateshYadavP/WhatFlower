@@ -1,0 +1,6 @@
+framework module Pods_WhatFlowerUITests {
+  umbrella header "Pods-WhatFlowerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
