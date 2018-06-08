@@ -1,6 +1,6 @@
 # WhatFlower
-Just snap a picture of a flower You want to know about, this app will give you its info,This app works offline. 
-For this I used oxford 102 flowers Caffe model, by converting it to .mlmodel using coremltools.
+Just snap a picture of a flower You want to know about, this app will give you its info,and this app works offline. 
+I used oxford 102 flowers Caffe model, by converting it to .mlmodel using coremltools in this.
 
 
 
